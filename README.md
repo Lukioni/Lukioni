@@ -1,4 +1,3 @@
-- This is
-- A jojo
-- Reference?
+intermediary knowledge: Javascript, Typescript, React
+Advanced: HTML, CSS
 

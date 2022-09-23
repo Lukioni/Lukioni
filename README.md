@@ -1,4 +1,4 @@
-intermediary knowledge: Javascript, Typescript, React\
 
-Advanced: HTML, CSS
+intermediary knowledge: Javascript, Typescript, React
+Advanced: HTML, CSS, Sass, Bootstrap
 
